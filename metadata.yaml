@@ -1,0 +1,37 @@
+_repo: The-World-s-Best-Poetry-Volume-3--Sorrow-and-Consolation_16786
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Abbott, Lyman
+    birthdate: 1835
+    deathdate: 1922
+    gutenberg_agent_id: '1604'
+    url: http://www.gutenberg.org/2009/agents/1604
+    wikipedia: http://en.wikipedia.org/wiki/Lyman_Abbott
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Carman, Bliss
+    alias: Carman, William Bliss
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '4343'
+    url: http://www.gutenberg.org/2009/agents/4343
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Collections'
+- !lcc 'PN'
+title: 'The World''s Best Poetry, Volume 03: Sorrow and Consolation'
+url: http://www.gutenberg.org/ebooks/16786
