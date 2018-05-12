@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16786#The-World-s-Best-Poetry-Volume-3--Sorrow-and-Consolation
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
